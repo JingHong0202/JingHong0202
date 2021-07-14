@@ -12,4 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![JingHong0202's github stats](https://github-readme-stats.vercel.app/api?username=JingHong0202&show_icons=true&theme=radical)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JingHong0202&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JingHong0202&theme=radical">
+</p>
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=JingHong0202&theme=redical">
+</p>

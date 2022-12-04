@@ -44,8 +44,5 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api?username=JingHong0202&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JingHong0202&theme=radical">
 </p>
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=JingHong0202&theme=redical">
-</p> 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

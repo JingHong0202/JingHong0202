@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<!-- <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
@@ -43,6 +43,12 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=JingHong0202&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JingHong0202&theme=radical">
-</p>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</p> -->
+
+
+
+<div style="width: 100%;">
+  <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
 
